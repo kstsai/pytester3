@@ -26,4 +26,4 @@ jobs:
         with:
           context: "{{defaultContext}}"
           push: true
-          tags: kstsai/pytester:latest
+          tags: kstsai/pytester3:latest
